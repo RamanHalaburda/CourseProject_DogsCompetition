@@ -1,0 +1,33 @@
+E:\Новая папка\PostService\PostService\bin\Debug\PostService.exe.config
+E:\Новая папка\PostService\PostService\obj\Debug\PostService.csprojResolveAssemblyReference.cache
+E:\Новая папка\PostService\PostService\obj\Debug\PostService.Properties.Resources.resources
+E:\Новая папка\PostService\PostService\obj\Debug\PostService.csproj.GenerateResource.Cache
+E:\Новая папка\PostService\PostService\bin\Debug\PostService.exe
+E:\Новая папка\PostService\PostService\bin\Debug\PostService.pdb
+E:\Новая папка\PostService\PostService\bin\Debug\MySql.Data.dll
+E:\Новая папка\PostService\PostService\obj\Debug\PostService.exe
+E:\Новая папка\PostService\PostService\obj\Debug\PostService.pdb
+E:\Новая папка\PostService\PostService\obj\Debug\PostService.Form2.resources
+E:\Новая папка\PostService\PostService\obj\Debug\Interop.Office.dll
+E:\Новая папка\PostService\PostService\obj\Debug\Interop.VBIDE.dll
+E:\Новая папка\PostService\PostService\obj\Debug\PostService.csproj.ResolveComReference.cache
+E:\Новая папка\PostService\PostService\bin\Debug\Oracle.DataAccess.dll
+E:\Новая папка\PostServiceOracle\PostService\bin\Debug\PostService.exe.config
+E:\Новая папка\PostServiceOracle\PostService\bin\Debug\PostService.exe
+E:\Новая папка\PostServiceOracle\PostService\bin\Debug\PostService.pdb
+E:\Новая папка\PostServiceOracle\PostService\bin\Debug\Oracle.DataAccess.dll
+E:\Новая папка\PostServiceOracle\PostService\obj\Debug\Interop.VBIDE.dll
+E:\Новая папка\PostServiceOracle\PostService\obj\Debug\PostService.csproj.ResolveComReference.cache
+E:\Новая папка\PostServiceOracle\PostService\obj\Debug\PostService.Form2.resources
+E:\Новая папка\PostServiceOracle\PostService\obj\Debug\PostService.Properties.Resources.resources
+E:\Новая папка\PostServiceOracle\PostService\obj\Debug\PostService.csproj.GenerateResource.Cache
+E:\Новая папка\PostServiceOracle\PostService\obj\Debug\PostService.exe
+E:\Новая папка\PostServiceOracle\PostService\obj\Debug\PostService.pdb
+E:\Новая папка\PostServiceOracle\PostService\obj\Debug\PostService.csprojResolveAssemblyReference.cache
+E:\Новая папка\PostServiceOracle\PostService\bin\Debug\AbstractDB.dll
+E:\Новая папка\PostServiceOracle\PostService\bin\Debug\AbstractDB.pdb
+E:\Курсовые(заказ)\CompetitionDogs\PostService\bin\Debug\PostService.exe.config
+E:\Курсовые(заказ)\CompetitionDogs\PostService\obj\Debug\Interop.VBIDE.dll
+E:\Курсовые(заказ)\CompetitionDogs\PostService\obj\Debug\PostService.csproj.ResolveComReference.cache
+E:\Курсовые(заказ)\CompetitionDogs\PostService\obj\Debug\PostService.exe
+E:\Курсовые(заказ)\CompetitionDogs\PostService\obj\Debug\PostService.pdb

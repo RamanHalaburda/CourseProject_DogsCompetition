@@ -1,0 +1,49 @@
+E:\Курсовые(заказ)\CompetitionDogs\PostService\obj\Debug\Interop.VBIDE.dll
+E:\Курсовые(заказ)\CompetitionDogs\PostService\obj\Debug\СompetitionDog.csproj.ResolveComReference.cache
+E:\Курсовые(заказ)\CompetitionDogs\PostService\bin\Debug\Oracle.DataAccess.dll
+E:\Курсовые(заказ)\CompetitionDogs\PostService\bin\Debug\AbstractDB.pdb
+E:\Курсовые(заказ)\CompetitionDogs\PostService\obj\Debug\СompetitionDog.csprojResolveAssemblyReference.cache
+E:\Курсовые(заказ)\CompetitionDogs\PostService\obj\Debug\CompetitionDog.Form2.resources
+E:\Курсовые(заказ)\CompetitionDogs\PostService\obj\Debug\СompetitionDog.csproj.GenerateResource.Cache
+E:\Курсовые(заказ)\CompetitionDogs\PostService\bin\Debug\СompetitionDog.exe.config
+E:\Курсовые(заказ)\CompetitionDogs\PostService\bin\Debug\СompetitionDog.exe
+E:\Курсовые(заказ)\CompetitionDogs\PostService\bin\Debug\СompetitionDog.pdb
+E:\Курсовые(заказ)\CompetitionDogs\PostService\obj\Debug\СompetitionDog.Properties.Resources.resources
+E:\Курсовые(заказ)\CompetitionDogs\PostService\obj\Debug\СompetitionDog.exe
+E:\Курсовые(заказ)\CompetitionDogs\PostService\obj\Debug\СompetitionDog.pdb
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\bin\Debug\СompetitionDog.exe.config
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\obj\Debug\Interop.VBIDE.dll
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\obj\Debug\СompetitionDog.csproj.ResolveComReference.cache
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\obj\Debug\СompetitionDog.exe
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\obj\Debug\СompetitionDog.pdb
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\bin\Debug\СompetitionDog.exe
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\bin\Debug\СompetitionDog.pdb
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\bin\Debug\mscorlib.dll
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\bin\Debug\AbstractDB.pdb
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\bin\Debug\normidna.nlp
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\bin\Debug\normnfc.nlp
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\bin\Debug\normnfd.nlp
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\bin\Debug\normnfkc.nlp
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\bin\Debug\normnfkd.nlp
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\obj\Debug\СompetitionDog.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\obj\Debug\CompetitionDog.Form2.resources
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\obj\Debug\СompetitionDog.Properties.Resources.resources
+C:\Users\Roman\Downloads\Kursach\CompetitionDogs\PostService\obj\Debug\СompetitionDog.csproj.GenerateResource.Cache
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\Давидович\CompetitionDogs\PostService\bin\Debug\СompetitionDog.exe.config
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\Давидович\CompetitionDogs\PostService\obj\Debug\Interop.VBIDE.dll
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\Давидович\CompetitionDogs\PostService\obj\Debug\СompetitionDog.csproj.ResolveComReference.cache
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\Давидович\CompetitionDogs\PostService\obj\Debug\СompetitionDog.exe
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\Давидович\CompetitionDogs\PostService\obj\Debug\СompetitionDog.pdb
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\Давидович\CompetitionDogs\PostService\bin\Debug\СompetitionDog.exe
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\Давидович\CompetitionDogs\PostService\bin\Debug\СompetitionDog.pdb
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\Давидович\CompetitionDogs\PostService\bin\Debug\AbstractDB.pdb
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\Давидович\CompetitionDogs\PostService\obj\Debug\СompetitionDog.csprojResolveAssemblyReference.cache
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\Давидович\CompetitionDogs\PostService\obj\Debug\CompetitionDog.Form2.resources
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\Давидович\CompetitionDogs\PostService\obj\Debug\СompetitionDog.Properties.Resources.resources
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\Давидович\CompetitionDogs\PostService\obj\Debug\СompetitionDog.csproj.GenerateResource.Cache
+E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\DogsCompetition\CompetitionDogs\PostService\bin\Debug\СompetitionDog.exe.config
+E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\DogsCompetition\CompetitionDogs\PostService\obj\Debug\Interop.VBIDE.dll
+E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\DogsCompetition\CompetitionDogs\PostService\obj\Debug\СompetitionDog.csproj.ResolveComReference.cache
+E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\DogsCompetition\CompetitionDogs\PostService\obj\Debug\СompetitionDog.exe
+E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\DogsCompetition\CompetitionDogs\PostService\obj\Debug\СompetitionDog.pdb

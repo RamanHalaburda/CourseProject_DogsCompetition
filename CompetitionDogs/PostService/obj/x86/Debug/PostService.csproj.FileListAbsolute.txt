@@ -1,0 +1,11 @@
+E:\Новая папка\PostServiceOracle\PostService\bin\x86\Debug\PostService.exe.config
+E:\Новая папка\PostServiceOracle\PostService\bin\x86\Debug\PostService.exe
+E:\Новая папка\PostServiceOracle\PostService\bin\x86\Debug\PostService.pdb
+E:\Новая папка\PostServiceOracle\PostService\bin\x86\Debug\Oracle.DataAccess.dll
+E:\Новая папка\PostServiceOracle\PostService\obj\x86\Debug\Interop.VBIDE.dll
+E:\Новая папка\PostServiceOracle\PostService\obj\x86\Debug\PostService.csproj.ResolveComReference.cache
+E:\Новая папка\PostServiceOracle\PostService\obj\x86\Debug\PostService.Form2.resources
+E:\Новая папка\PostServiceOracle\PostService\obj\x86\Debug\PostService.Properties.Resources.resources
+E:\Новая папка\PostServiceOracle\PostService\obj\x86\Debug\PostService.csproj.GenerateResource.Cache
+E:\Новая папка\PostServiceOracle\PostService\obj\x86\Debug\PostService.exe
+E:\Новая папка\PostServiceOracle\PostService\obj\x86\Debug\PostService.pdb
